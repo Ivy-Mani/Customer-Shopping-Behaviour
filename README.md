@@ -10,7 +10,6 @@ The project includes:
 - Data Analysis (SQL)
 - Dashboard Visualization (Power BI)
 
----
 
 ## 🎯 Business Problem
 How can the company leverage customer shopping data to:
@@ -18,19 +17,15 @@ How can the company leverage customer shopping data to:
 - Improve customer engagement
 - Optimize marketing and product strategies
 
----
 
 ## 🛠️ Tech Stack
 - **Python** (Pandas, EDA)
 - **SQL** (MySQL)
 - **Power BI** (Dashboard Visualization)
 
----
-
 ## 📂 Dataset
 - Customer shopping behavior dataset (`customer_shopping_behavior.csv`)
 
----
 
 ## 🔍 Key SQL Analysis
 - Revenue by gender
@@ -44,8 +39,6 @@ How can the company leverage customer shopping data to:
 - Repeat buyers vs subscription
 - Revenue by age group
 
----
-
 ## 📊 Dashboard Highlights
 - Total Revenue: **$233K**
 - Total Customers: **3.9K**
@@ -57,7 +50,6 @@ How can the company leverage customer shopping data to:
   - New: 16%
 - Top Products: Sweater, Sunglasses, Socks
 
----
 
 ## 📈 Key Insights
 - Discounts significantly influence purchase behavior
@@ -74,7 +66,6 @@ How can the company leverage customer shopping data to:
 6. Business Problem Document.pdf
 7. README.md
 
----
 
 ## 🚀 How to Run
 1. Import dataset into MySQL
@@ -82,12 +73,9 @@ How can the company leverage customer shopping data to:
 3. Open `.pbix` file in Power BI
 4. Explore dashboard insights
 
----
 
 ## 📌 Conclusion
 This project provides actionable insights into customer behavior, helping businesses make data-driven decisions in marketing, product strategy, and customer retention.
-
----
 
 ## ⭐ If you like this project, give it a star!
 ---
