@@ -66,12 +66,13 @@ How can the company leverage customer shopping data to:
 - Certain categories consistently perform better across seasons
 
 ## 📁 Project Structure
-├── eda.ipynb # Data cleaning & analysis
-├── project1.sql # SQL queries
-├── customer_dashboard.pbix # Power BI dashboard
-├── customer_shopping_behavior.csv
-├── README.md
-
+1. eda.ipynb # Data cleaning & analysis
+2. project1.sql # SQL queries
+3. customer_dashboard.pbix # Power BI dashboard
+4. dataset # customer_shopping_behavior.csv
+5. result_pbix.pdf # powerbi exported pdf
+6. Business Problem Document.pdf
+7. README.md
 
 ---
 
