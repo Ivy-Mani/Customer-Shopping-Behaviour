@@ -78,6 +78,3 @@ How can the company leverage customer shopping data to:
 This project provides actionable insights into customer behavior, helping businesses make data-driven decisions in marketing, product strategy, and customer retention.
 
 ## ⭐ If you like this project, give it a star!
----
-
-## 📁 Project Structure
